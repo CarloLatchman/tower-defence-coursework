@@ -1,0 +1,39 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "Part 1/assets",
+        "Part 1/assets/images/tiles",
+        "Part 1/assets/images",
+        ".",
+        "Part 1"
+    ],
+    "fileStates": {
+        "Part 1/assets/images/tiles/Grass and Dirt.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "Part 1/assets/images/tiles/grass path tileset.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/carlo/OneDrive/Documents/computer science/coursework code",
+    "map.height": 12,
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 24,
+    "openFiles": [
+    ],
+    "project": "tile map.tiled-project",
+    "recentFiles": [
+        "Part 1/assets/images/tiles/grass path tileset.tsx",
+        "Part 1/assets/images/tiles/Grass and Dirt.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.type": 1
+}
