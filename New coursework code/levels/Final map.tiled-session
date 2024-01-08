@@ -1,0 +1,38 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "untitled.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "tileset.tsx": {
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "untitled.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 483.99999999999994,
+                "y": 331.33333333333326
+            }
+        }
+    },
+    "last.exportedFilePath": "C:/Users/carlo/OneDrive/Documents/computer science/New coursework code/levels",
+    "last.imagePath": "C:/Users/carlo/OneDrive/Documents/computer science/coursework code/Part 1/assets/images/tiles",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "untitled.tmx",
+        "tileset.tsx"
+    ],
+    "project": "Final map.tiled-project",
+    "recentFiles": [
+        "tileset.tsx",
+        "untitled.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
